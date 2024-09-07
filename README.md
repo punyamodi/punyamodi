@@ -18,7 +18,7 @@
 ➖ Driven by my passion for understanding the intricacies of technology and contributing to impactful projects, I am actively seeking internship opportunities in software development and AI/ML fields. My goal is to apply my skills to real-world problems, continuously learn, and grow as a developer. <br> 
 <br>
 
-📩 Contact me at modipunya@gmail.com
+📩 Contact me at modipunya@gmail.com <br>
 📞 Phone Number +91 9971127811
 <br><br><br>
 
