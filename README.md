@@ -1,17 +1,111 @@
-<h1 align="center">Hi 👋, I'm Punya Modi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **AI/ML**
+![Design and Development](https://github.com/PunyaModi/PunyaModi/blob/main/Punya_Modi_Profile.jpg)
+<br><br>
+<b>▶️ Introduction:</b> <br> 
+➖ I'm a passionate 3rd-year undergraduate student pursuing BTech in Computer Science Engineering at IIIT Bhopal, holding a CGPA of 9.92. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically, ranking 1st in my batch. <br> 
+<br> 
+<b>▶️ Professional Experience:</b> <br> 
+➖ I have experience working as a Generative AI Intern at Constituents AI, where I designed and deployed advanced AI models, including Diffusion and LLMs. <br> 
+➖ As a Programming Engineer Intern at OGES Solutions Pvt Ltd, I implemented Reinforcement Learning and optimized Genetic/ACO algorithms, enhancing the performance of route optimization software. <br> 
+➖ I was Assistant AI/ML Developer at Google Developer Student Club for the session (2023-2024) <br>
+➖ As a Teaching Assistant for Fundamentals of Computer Programming (FOCP) at IIIT Bhopal, I guided students through core programming concepts and assisted in enhancing their coding skills. <br>
+<br> 
+<b>▶️ Skills:</b> <br> 
+➖ I am a versatile developer with experience across multiple domains, including AI/ML, Fullstack Web Development, Backend Development, and Software Engineering. I have strong problem-solving skills and a deep understanding of DSA and various mathematical concepts, which I apply to tackle complex real-world challenges. <br> 
+➖ Proficient in Python, C/C++, SQL, Flask, FastAPI, and more, I have worked on projects involving Reinforcement Learning, sentiment analysis, and web development. My dedication to problem-solving has led me to build innovative solutions, such as a Q-Learning trading bot and a voice sentiment analysis system using BERT. <br> 
+<br> 
+<b>▶️ Inspiration:</b> <br> 
+➖ Driven by my passion for understanding the intricacies of technology and contributing to impactful projects, I am actively seeking internship opportunities in software development and AI/ML fields. My goal is to apply my skills to real-world problems, continuously learn, and grow as a developer. <br> 
+<br>
 
-<h3 align="left">Connect with me:</h3>
+📩 Contact me at modipunya@gmail.com
+📞 Phone Number +91 9971127811
+<br><br><br>
+
+
+
+## 🌐 How to reach me
 <p align="left">
-<a href="https://linkedin.com/in/punya-modi-43b616145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punya-modi-43b616145" height="30" width="40" /></a>
-<a href="https://instagram.com/punya.modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punya.modi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/punyamodi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="punyamodi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/punyamodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="punyamodi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/punya-modi-43b616145/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="punyamodi"/></a>
+<a href="https://leetcode.com/u/PunyaModi/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="punyamodi" /></a>
+<a href="https://www.codechef.com/users/punyamodi" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="punyamodi" /></a>
+</p>
+<br><br>
+
+
+## 🧑‍💻 Tech Stack<br>
+
+### Programming languages
+<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,py,c&theme=light)](https://skillicons.dev) -->
+<p>
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AI/ML & Data Science Development<br>
+<p>
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" /> 
+   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /> 
+   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" /> 
+   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
+<p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punyamodi&show_icons=true&locale=en" alt="punyamodi" /></p>
+### Backend Web Development<br>
+<p>
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> 
+<p>
+
+### Frontend Web Development
+<p>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /> 
+</p>
+
+### Developer Tools
+<p>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+</p>
+<br><br>
+ 
+<!-- [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vite,npm,vscode,figma&theme=light)](https://skillicons.dev) -->
+<br>
+
+## ⚡Github Stats
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=punyamodi&label=Profile%20views&color=0e75b6&style=flat" alt="punyamodi" /> </p>
+<!-- <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punyamodi&" alt="punyamodi" /></p> -->
+<p align="center">
+    <img align="center" src="https://streak-stats.demolab.com?user=punyamodi&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=punyamodi&theme=react-dark&hide_border=true" alt="punyamodi" />
+  </p>
+ </div> 
+<br><br>
+
+
+<div>
