@@ -24,13 +24,7 @@
 
 
 
-## 🌐 How to reach me
-<p align="left">
-<a href="https://www.linkedin.com/in/punya-modi-43b616145/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="punyamodi"/></a>
-<a href="https://leetcode.com/u/PunyaModi/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="punyamodi" /></a>
-<a href="https://www.codechef.com/users/punyamodi" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="punyamodi" /></a>
-</p>
-<br><br>
+
 
 
 ## 🧑‍💻 Tech Stack<br>
