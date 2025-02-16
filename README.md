@@ -1,5 +1,4 @@
 
-![Design and Development](https://github.com/PunyaModi/PunyaModi/blob/main/Punya_Modi_Profile.jpg)
 <br><br>
 <b>▶️ Introduction:</b> <br> 
 ➖ I'm a passionate 3rd-year undergraduate student pursuing BTech in Computer Science Engineering at IIIT Bhopal, holding a CGPA of 9.92. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically, ranking 1st in my batch. <br> 
