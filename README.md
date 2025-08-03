@@ -1,7 +1,7 @@
 
 <br><br>
 <b>▶️ Introduction:</b> <br> 
-➖ I'm a passionate 3rd-year undergraduate student pursuing BTech in Computer Science Engineering at IIIT Bhopal, holding a CGPA of 9.92. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically, ranking 1st in my batch. <br> 
+➖ I'm a passionate 3rd-year undergraduate student pursuing BTech in Computer Science Engineering at IIIT Bhopal, holding a CGPA of 9.86. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically, ranking 1st in my batch. <br> 
 <br> 
 <b>▶️ Professional Experience:</b> <br> 
 ➖ I have experience working as a Generative AI Intern at Constituents AI, where I designed and deployed advanced AI models, including Diffusion and LLMs. <br> 
