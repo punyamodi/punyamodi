@@ -1,5 +1,5 @@
 **▶️ Introduction:** <br>
-➖ I am a passionate 4th-year undergraduate pursuing a B.Tech in Computer Science & Engineering at the Indian Institute of Information Technology (IIIT), Bhopal, with an outstanding CGPA of 9.86/10.00[cite: 4, 5, 6]. My academic foundation is built on key coursework in Data Structures & Algorithms, Object Oriented Programming, DBMS, Computer Networks, and Operating Systems[cite: 7]. I am driven to apply my technical skills to solve complex, real-world problems and contribute to impactful projects. <br>
+➖ I am a passionate 4th-year undergraduate pursuing a B.Tech in Computer Science & Engineering at the Indian Institute of Information Technology (IIIT), Bhopal, with an outstanding CGPA of 9.86/10.00. My academic foundation is built on key coursework in Data Structures & Algorithms, Object Oriented Programming, DBMS, Computer Networks, and Operating Systems. I am driven to apply my technical skills to solve complex, real-world problems and contribute to impactful projects. <br>
 <br>
 **▶️ Professional Experience:** <br>
 ➖ **SDE Intern @ PayPal** (Jun 2025 - Aug 2025) 
