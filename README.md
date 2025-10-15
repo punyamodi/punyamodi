@@ -1,45 +1,45 @@
 **▶️ Introduction:** <br>
-[cite_start]➖ I am a passionate 4th-year undergraduate pursuing a B.Tech in Computer Science & Engineering at the Indian Institute of Information Technology (IIIT), Bhopal, with an outstanding CGPA of 9.86/10.00[cite: 4, 5, 6]. [cite_start]My academic foundation is built on key coursework in Data Structures & Algorithms, Object Oriented Programming, DBMS, Computer Networks, and Operating Systems[cite: 7]. I am driven to apply my technical skills to solve complex, real-world problems and contribute to impactful projects. <br>
+➖ I am a passionate 4th-year undergraduate pursuing a B.Tech in Computer Science & Engineering at the Indian Institute of Information Technology (IIIT), Bhopal, with an outstanding CGPA of 9.86/10.00[cite: 4, 5, 6]. My academic foundation is built on key coursework in Data Structures & Algorithms, Object Oriented Programming, DBMS, Computer Networks, and Operating Systems[cite: 7]. I am driven to apply my technical skills to solve complex, real-world problems and contribute to impactful projects. <br>
 <br>
 **▶️ Professional Experience:** <br>
-[cite_start]➖ **SDE Intern @ PayPal** (Jun 2025 - Aug 2025) [cite: 9, 10]
-  - [cite_start]Engineered and automated component testing workflows, including record creation and validation, to ensure high system reliability and accelerate development cycles[cite: 11].
-  - [cite_start]Led the migration from Jenkins to Harness for streamlined CI/CD orchestration[cite: 12].
-  - [cite_start]Developed 4 MCP extensions to enable in-IDE automated application testing, enhancing developer productivity[cite: 13].
+➖ **SDE Intern @ PayPal** (Jun 2025 - Aug 2025) [cite: 9, 10]
+  - Engineered and automated component testing workflows, including record creation and validation, to ensure high system reliability and accelerate development cycles[cite: 11].
+  - Led the migration from Jenkins to Harness for streamlined CI/CD orchestration[cite: 12].
+  - Developed 4 MCP extensions to enable in-IDE automated application testing, enhancing developer productivity[cite: 13].
 
-[cite_start]➖ **Generative AI Intern @ Constituents AI** (Feb 2024 - Mar 2024) [cite: 14, 15]
-  - [cite_start]Designed and deployed cutting-edge AI models (Diffusion, LLMs) to boost content creation efficiency by 40% and save over 120+ hours monthly through automated database management[cite: 16].
-  - [cite_start]Collaborated with cross-functional teams to integrate advanced AI solutions, markedly reducing inference costs by eliminating redundant API calls[cite: 17].
+➖ **Generative AI Intern @ Constituents AI** (Feb 2024 - Mar 2024) [cite: 14, 15]
+  - Designed and deployed cutting-edge AI models (Diffusion, LLMs) to boost content creation efficiency by 40% and save over 120+ hours monthly through automated database management[cite: 16].
+  - Collaborated with cross-functional teams to integrate advanced AI solutions, markedly reducing inference costs by eliminating redundant API calls[cite: 17].
 
-[cite_start]➖ **Programming Engineer Intern @ Oil & Gas Engineering Solutions** (Dec 2023 - Jan 2024) [cite: 18, 19]
-  - [cite_start]Optimized Genetic Algorithms and Ant Colony Optimization (ACO) for route planning, achieving a 75% performance improvement with refined heuristics[cite: 20].
-  - [cite_start]Developed a data-driven AI prototype to predict real-time driver risk, demonstrating the potential to reduce accidents by 30%[cite: 21, 22].
+➖ **Programming Engineer Intern @ Oil & Gas Engineering Solutions** (Dec 2023 - Jan 2024) [cite: 18, 19]
+  - Optimized Genetic Algorithms and Ant Colony Optimization (ACO) for route planning, achieving a 75% performance improvement with refined heuristics[cite: 20].
+  - Developed a data-driven AI prototype to predict real-time driver risk, demonstrating the potential to reduce accidents by 30%[cite: 21, 22].
 
 <br>
 **▶️ Projects** <br>
 ➖ **Moodify - Music Streaming App**
-  - [cite_start]Built a Spotify-inspired music app using React.js and Redux with multilingual support[cite: 28].
-  - [cite_start]Integrated FaceAPI for emotion-based music recommendations and secured sessions using OAuth 2.0 and JWT[cite: 30].
-  - [cite_start]**Tech Used**: `React.js`, `Redux`, `Axios`, `FaceAPI`, `Saavn API` [cite: 26]
+  - Built a Spotify-inspired music app using React.js and Redux with multilingual support[cite: 28].
+  - Integrated FaceAPI for emotion-based music recommendations and secured sessions using OAuth 2.0 and JWT[cite: 30].
+  - **Tech Used**: `React.js`, `Redux`, `Axios`, `FaceAPI`, `Saavn API` [cite: 26]
 
 ➖ **Stock Data Analysis & Agentic Trading Bot**
-  - [cite_start]Engineered a Q-Learning trading system using LLMs for sentiment analysis, achieving a 20% boost in returns[cite: 32, 33].
-  - [cite_start]Developed robust reward functions and agentic decision-making pipelines, improving risk-adjusted returns by 18% and reducing processing latency by 12%[cite: 34].
-  - [cite_start]**Tech Used**: `Numpy`, `Pandas`, `Q-Learning`, `LLMs` [cite: 32]
+  - Engineered a Q-Learning trading system using LLMs for sentiment analysis, achieving a 20% boost in returns[cite: 32, 33].
+  - Developed robust reward functions and agentic decision-making pipelines, improving risk-adjusted returns by 18% and reducing processing latency by 12%[cite: 34].
+  - **Tech Used**: `Numpy`, `Pandas`, `Q-Learning`, `LLMs` [cite: 32]
 
 <br>
 **▶️ Achievements & Leadership** <br>
-- [cite_start]**Certifications**: Qualified for GATE 2025 (CS & DA) and Amazon ML Summer School 2025[cite: 36, 37].
-- [cite_start]**Competitive Programming**: 4-Star Coder on CodeChef (Rating: 1838) and Expert on CodeForces (Rating: 1867)[cite: 38, 39].
-- [cite_start]**Hackathons**: Secured 1st place at GDSC Solutions Challenge (IIIT Bhopal) and 5th prize at GPT-3.5 Solve-a-Thon (IIIT Nagpur)[cite: 40, 41].
+- **Certifications**: Qualified for GATE 2025 (CS & DA) and Amazon ML Summer School 2025[cite: 36, 37].
+- **Competitive Programming**: 4-Star Coder on CodeChef (Rating: 1838) and Expert on CodeForces (Rating: 1867)[cite: 38, 39].
+- **Hackathons**: Secured 1st place at GDSC Solutions Challenge (IIIT Bhopal) and 5th prize at GPT-3.5 Solve-a-Thon (IIIT Nagpur)[cite: 40, 41].
 - **Positions of Responsibility**:
-  - Technical Secretary | [cite_start]IIIT Bhopal (Aug 2024 - Present) [cite: 43, 46]
-  - Machine Learning Developer | [cite_start]Google DSC IIIT Bhopal (Sep 2023 - Jun 2024) [cite: 44]
-  - Teaching Assistant (FOCP) | [cite_start]IIIT Bhopal (Jul 2023 - Dec 2023) [cite: 45]
+  - Technical Secretary | IIIT Bhopal (Aug 2024 - Present) [cite: 43, 46]
+  - Machine Learning Developer | Google DSC IIIT Bhopal (Sep 2023 - Jun 2024) [cite: 44]
+  - Teaching Assistant (FOCP) | IIIT Bhopal (Jul 2023 - Dec 2023) [cite: 45]
 
 <br>
-[cite_start]📩 Contact me at modipunya@gmail.com [cite: 2] <br>
-[cite_start]📞 Phone Number +91 9971127811 [cite: 2]
+📩 Contact me at modipunya@gmail.com [cite: 2] <br>
+📞 Phone Number +91 9971127811 [cite: 2]
 <br><br>
 
 ## 🧑‍💻 Tech Stack<br>
